@@ -1,0 +1,10 @@
+{
+  "name": "functional_programming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daniel Giralt",
+  "license": "MIT",
+  "devDependencies": {
+    "shuffle-array": "^1.0.1"
+  }
+}
